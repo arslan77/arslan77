@@ -116,11 +116,14 @@ graph LR
 
 <div align="center">
 
-![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslan77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/arslan77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arslan77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan77&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan77&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslan77&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan77&theme=tokyonight" alt="GitHub Contribution"/>
 
 </div>
 
@@ -167,9 +170,13 @@ IoT platform processing data from 500+ poultry farm devices
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
-[![Arslan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arslan77&theme=react-dark&hide_border=true)](https://github.com/arslan77)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan77&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
