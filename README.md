@@ -116,14 +116,17 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/arslan77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arslan77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=arslan77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan77&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan77&theme=tokyonight" alt="Contribution Graph" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan77&theme=tokyonight" alt="GitHub Contribution"/>
+<!-- Most Used Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arslan77&theme=tokyonight" alt="Top Languages by Commit" />
+
+<!-- Stats Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arslan77&theme=tokyonight" alt="GitHub Stats Summary" />
 
 </div>
 
