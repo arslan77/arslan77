@@ -45,7 +45,7 @@ me := Engineer{
 }
 ```
 
-🔭 **Currently**: Leading Integration Squad at HungerStation, building GoLang microservices for vendor integrations across 50+ partners (improved availability accuracy from 55% to 99%)
+🔭 **Currently**: Contributing to Integration Squad at HungerStation, building GoLang microservices for vendor integrations across 50+ partners
 
 🌱 **Learning**: Advanced system design patterns, Kubernetes at scale, AI/ML integration in production systems
 
@@ -108,11 +108,12 @@ graph LR
 ```
 
 **Current Role @ HungerStation (Delivery Hero)**
-- 🎯 Lead Integration Squad - GoLang microservices for 50+ vendor partners
-- ⚡ **Improved vendor availability sync from 55% to 99%** - Redis caching, optimized Postgres queries
-- 🚀 Led scheduled orders initiative - gRPC integration, government compliance APIs
+- 🎯 Contributing to Integration Squad - GoLang microservices for 50+ vendor partners
+- 🚀 **Led Scheduled Orders initiative** - gRPC communication, complex Saudi scheduling (Ramadan/Eid)
+- 🛡️ **Built Logistics Compliance Tool** - Government API integration (Athr/Yakeen) for rider verification
+- 🔄 **Developed Item Replacement feature** - Real-time inventory checks, vendor communication
 - 👥 Mentoring junior engineers - Code reviews, microservices best practices
-- 📊 Prometheus/Grafana monitoring - Event-driven architecture with Google Cloud Pub/Sub
+- 📊 Event-driven architecture - Google Cloud Pub/Sub, GKE, Prometheus/Grafana monitoring
 
 ---
 
