@@ -174,9 +174,9 @@ IoT platform processing data from 500+ poultry farm devices
 
 ## 🎓 Education
 
-**MS in Information Technology** - NUST SEECS, Islamabad (2017-2020)
-- CGPA: 3.19/4.0
-- Specialization: Software Engineering & Distributed Systems
+**MS in Computer Science** - NUST SEECS, Islamabad (2017-2020)
+- CGPA: 3.35/4.0
+- Specialization: Intelligent Information Systems (IIS)
 
 **BS in Computer Science** - NFC IET, Multan (2013-2017)
 - CGPA: 3.67/4.0
