@@ -122,13 +122,12 @@ graph LR
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan77&theme=tokyonight" alt="Contribution Graph" />
 
-<!-- Most Used Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arslan77&theme=tokyonight" alt="Top Languages by Commit" />
-
 <!-- Stats Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arslan77&theme=tokyonight" alt="GitHub Stats Summary" />
 
 </div>
+
+> 💡 **Note**: Most of my professional work is in private repositories. Public stats show contribution patterns but not the full scope of my work.
 
 ---
 
