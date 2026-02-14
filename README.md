@@ -45,13 +45,15 @@ me := Engineer{
 }
 ```
 
-🔭 **Currently**: Leading Integration Squad at HungerStation, building scalable microservices for vendor integrations across 50+ partners
+🔭 **Currently**: Leading Integration Squad at HungerStation, building GoLang microservices for vendor integrations across 50+ partners (improved availability accuracy from 55% to 99%)
 
 🌱 **Learning**: Advanced system design patterns, Kubernetes at scale, AI/ML integration in production systems
 
-💡 **AI-Powered**: Leveraging Claude AI, GitHub Copilot, and Cursor for enhanced productivity
+💡 **AI-Powered**: Leveraging Claude AI (Code & API), GitHub Copilot, Cursor AI, and custom AI agents for enhanced productivity
 
 📄 **Resume**: Multi-template LaTeX resume with automated CI/CD → [arslan77/resume](https://github.com/arslan77/resume)
+
+🎓 **Published Research**: Computer vision for poverty mapping using satellite imagery (Journal of Economy and Technology, 2023)
 
 ---
 
@@ -61,13 +63,14 @@ me := Engineer{
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -105,10 +108,11 @@ graph LR
 ```
 
 **Current Role @ HungerStation (Delivery Hero)**
-- 🎯 Lead Integration Squad - Microservices for 50+ vendor partners
-- ⚡ Optimized GoLang services - 35% API response time improvement
-- 👥 Mentoring junior engineers - Code reviews & technical workshops
-- 📊 Implemented Prometheus/Grafana monitoring
+- 🎯 Lead Integration Squad - GoLang microservices for 50+ vendor partners
+- ⚡ **Improved vendor availability sync from 55% to 99%** - Redis caching, optimized Postgres queries
+- 🚀 Led scheduled orders initiative - gRPC integration, government compliance APIs
+- 👥 Mentoring junior engineers - Code reviews, microservices best practices
+- 📊 Prometheus/Grafana monitoring - Event-driven architecture with Google Cloud Pub/Sub
 
 ---
 
@@ -132,6 +136,13 @@ graph LR
 ---
 
 ## 🏆 Highlight Projects
+
+### 🎓 [Research Publication - Poverty Mapping](https://www.sciencedirect.com/science/article/pii/S2949948823000100)
+Computer vision system for mapping socioeconomic conditions using satellite imagery
+- 🛰️ Transfer learning on satellite imagery for poverty detection
+- 🗺️ Generates development heat maps from publicly available data
+- 📊 Cost-effective alternative to traditional field surveys
+- 📰 Published in Journal of Economy and Technology (2023)
 
 ### 📄 [Multi-Template Resume System](https://github.com/arslan77/resume)
 Automated LaTeX resume generation with multiple templates, GitHub Actions CI/CD, and version management
