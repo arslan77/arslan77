@@ -11,7 +11,7 @@
   <a href="https://arslan77.github.io"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=8%2B+Years+in+Backend+Development;Building+Scalable+Microservices;Go+%7C+Java+%7C+PHP+%7C+Python;AWS+%7C+Docker+%7C+Kubernetes;Currently+%40+HungerStation+(Delivery+Hero)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=10%2B+Years+in+Backend+Development;Building+Scalable+Microservices;Go+%7C+Java+%7C+PHP+%7C+Python;AWS+%7C+Docker+%7C+Kubernetes;Currently+%40+HungerStation+(Delivery+Hero)" alt="Typing SVG" />
 
 </div>
 
@@ -34,7 +34,7 @@ me := Engineer{
     Role:       "Senior Software Engineer (Backend)",
     Location:   "Dubai, UAE 🇦🇪",
     Company:    "HungerStation (Delivery Hero)",
-    Experience: 8,
+    Experience: 10,
     Focus: []string{
         "Microservices Architecture",
         "Distributed Systems",
@@ -88,8 +88,8 @@ me := Engineer{
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### AI Tools
-![Claude](https://img.shields.io/badge/-Claude%20AI-191919?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20AI-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
